@@ -7,7 +7,7 @@
 
 ## Bitwig - Ableton Push 2 Tutorials (deutsch/german)
 1. [Video Tutorial](https://mytube.madzel.de/videos/watch/2ef685b9-b488-4204-a43a-436cd618482e) - Ableton Push 2 in Bitwig mit Driven By Moss - Installation und Konfiguration unter Linux 
-2. Ableton Push 2 in Bitwig mit Driven By Moss - Global Features \
+2. Video Tutorial - Ableton Push 2 in Bitwig mit Driven By Moss - Global Features \
      [PDF](https://github.com/hoergen/Tutorials/blob/master/Bitwig/Ableton%20Push%202/Tutorial%20-%20Bitwig%20-%20Driven%20By%20Moss%20-%20Ableton%20Push%202%20-%20Global%20Features.pdf) / [ODT](https://github.com/hoergen/Tutorials/blob/master/Bitwig/Ableton%20Push%202/Tutorial%20-%20Bitwig%20-%20Driven%20By%20Moss%20-%20Ableton%20Push%202%20-%20Global%20Features.odt) - Tutorial - Bitwig - Driven By Moss - Ableton Push 2 - Global Features 
 
 
