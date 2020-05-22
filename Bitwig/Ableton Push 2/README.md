@@ -1,6 +1,6 @@
-# Driven By Moss Tutorials and Resources
+# Tutorials and Resources Driven By Moss Script
 
-## Driven By Moss
+## Driven By Moss Script
 1. [Jürgen Mossgraber Webpage Driven By Moss Script](http://www.mossgrabers.de/Software/Bitwig/Bitwig.html)
 2. [Driven By Moss github documentation](https://github.com/git-moss/DrivenByMoss-Documentation/)
 3. [Driven By Moss Ableton Push Documentation](https://github.com/git-moss/DrivenByMoss-Documentation/blob/master/Ableton/Ableton-Push.md)
