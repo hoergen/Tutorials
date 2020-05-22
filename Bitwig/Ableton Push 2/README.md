@@ -1,4 +1,4 @@
-# Bitwig - Ableton Push 2 - Driven By Moss Tutorials and Resources
+# Driven By Moss Tutorials and Resources
 
 ## Driven By Moss
 1. Jürgen Mossgraber Webpage Driven By Moss Script http://www.mossgrabers.de/Software/Bitwig/Bitwig.html
