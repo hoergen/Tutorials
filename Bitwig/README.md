@@ -5,6 +5,7 @@
 2. [Ableton Push 2 in Bitwig mit Driven By Moss](https://github.com/hoergen/Tutorials/tree/master/Bitwig/Ableton%20Push%202) \
  Installation und Konfiguration unter Linux \
  Global Features
+3. [Reverb in Bitwig](https://mytube.madzel.de/videos/watch/63576131-2959-487a-9539-57e765baceac)
 
 ## Bitwig - Channels english
 1. Vaan's Place - [Youtube](https://www.youtube.com/channel/UCK1lwfFPuKwAiQ3QJudOmRA/videos)
